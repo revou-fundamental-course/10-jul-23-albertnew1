@@ -1,0 +1,46 @@
+form {
+  margin: 0 auto;
+  width: 500px;
+}
+
+h1{
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input, select, textarea {
+  margin-bottom: 10px;
+}
+
+.submit {
+  background-color: rgb(44, 186, 221);
+  color: white;
+  margin-top: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.submit:hover {
+    background-color: rgb(0, 182, 243);
+    color: black;
+}
+
+div.page {
+  background-color: rgb(126, 252, 252);
+  margin: 10px;
+  padding: 10px;
+  width: 35%;
+  height: auto;
+}
+
+.result {
+  width: 100%;
+  height: 100%;
+  background-color: #f5f5f5;
+  padding: 10px;
+  border-radius: 5px;
+}
